@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="22"
+    density="xxhdpi"
+    format="7"
+    timestamp="44374303177321"
+    token="2978285100605329618" >
+
+    <task
+        name="javac"
+        duration="83" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="6" />
+    <task
+        name="verifier"
+        duration="1" />
+
+    <artifact
+        location="F:\Demo\QRCodeScanZbarUpdate\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+        type="DEX" />
+
+    <build timestamp="43896083550943" >
+        <artifact
+            location="F:\Demo\QRCodeScanZbarUpdate\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="44374303177321" >
+        <artifact
+            location="F:\Demo\QRCodeScanZbarUpdate\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,520 @@
+[
+    {
+        "outputFile": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 239,
+                        "endColumn": 58,
+                        "endOffset": 293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 114,
+                    "endColumn": 47,
+                    "endOffset": 157
+                },
+                "from": {
+                    "file": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 87,
+                        "endColumn": 47,
+                        "endOffset": 130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 162,
+                    "endColumn": 45,
+                    "endOffset": 203
+                },
+                "from": {
+                    "file": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 299,
+                        "endColumn": 45,
+                        "endOffset": 340
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 208,
+                    "endColumn": 51,
+                    "endOffset": 255
+                },
+                "from": {
+                    "file": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 51,
+                        "endOffset": 209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 260,
+                    "endColumn": 57,
+                    "endOffset": 313
+                },
+                "from": {
+                    "file": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 318,
+                    "endColumn": 55,
+                    "endOffset": 369
+                },
+                "from": {
+                    "file": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 374,
+                    "endColumn": 58,
+                    "endOffset": 428
+                },
+                "from": {
+                    "file": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 2,
+                        "startOffset": 1265,
+                        "endColumn": 56,
+                        "endOffset": 1319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 433,
+                    "endColumn": 39,
+                    "endOffset": 468
+                },
+                "from": {
+                    "file": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 656,
+                        "endColumn": 37,
+                        "endOffset": 691
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 473,
+                    "endColumn": 35,
+                    "endOffset": 504
+                },
+                "from": {
+                    "file": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 694,
+                        "endColumn": 33,
+                        "endOffset": 725
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 509,
+                    "endColumn": 42,
+                    "endOffset": 547
+                },
+                "from": {
+                    "file": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 728,
+                        "endColumn": 40,
+                        "endOffset": 766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 552,
+                    "endColumn": 45,
+                    "endOffset": 593
+                },
+                "from": {
+                    "file": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 769,
+                        "endColumn": 43,
+                        "endOffset": 810
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 598,
+                    "endColumn": 42,
+                    "endOffset": 636
+                },
+                "from": {
+                    "file": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 2,
+                        "startOffset": 813,
+                        "endColumn": 40,
+                        "endOffset": 851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 641,
+                    "endColumn": 45,
+                    "endOffset": 682
+                },
+                "from": {
+                    "file": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 854,
+                        "endColumn": 43,
+                        "endOffset": 895
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 687,
+                    "endColumn": 37,
+                    "endOffset": 720
+                },
+                "from": {
+                    "file": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 2,
+                        "startOffset": 1189,
+                        "endColumn": 36,
+                        "endOffset": 1223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 725,
+                    "endColumn": 49,
+                    "endOffset": 770
+                },
+                "from": {
+                    "file": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 2,
+                        "startOffset": 898,
+                        "endColumn": 47,
+                        "endOffset": 943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 775,
+                    "endColumn": 33,
+                    "endOffset": 804
+                },
+                "from": {
+                    "file": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 2,
+                        "startOffset": 946,
+                        "endColumn": 31,
+                        "endOffset": 975
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 809,
+                    "endColumn": 44,
+                    "endOffset": 849
+                },
+                "from": {
+                    "file": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 2,
+                        "startOffset": 978,
+                        "endColumn": 42,
+                        "endOffset": 1018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 854,
+                    "endColumn": 47,
+                    "endOffset": 897
+                },
+                "from": {
+                    "file": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 2,
+                        "startOffset": 1021,
+                        "endColumn": 45,
+                        "endOffset": 1064
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 902,
+                    "endColumn": 56,
+                    "endOffset": 954
+                },
+                "from": {
+                    "file": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 2,
+                        "startOffset": 1067,
+                        "endColumn": 54,
+                        "endOffset": 1119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 959,
+                    "endColumn": 59,
+                    "endOffset": 1014
+                },
+                "from": {
+                    "file": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 2,
+                        "startOffset": 1122,
+                        "endColumn": 57,
+                        "endOffset": 1177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1019,
+                    "endColumn": 45,
+                    "endOffset": 1060
+                },
+                "from": {
+                    "file": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 2,
+                        "startOffset": 1322,
+                        "endColumn": 43,
+                        "endOffset": 1363
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1065,
+                    "endColumn": 36,
+                    "endOffset": 1097
+                },
+                "from": {
+                    "file": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 2,
+                        "startOffset": 1226,
+                        "endColumn": 35,
+                        "endOffset": 1259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1102,
+                    "endColumn": 42,
+                    "endOffset": 1140
+                },
+                "from": {
+                    "file": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 42,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1145,
+                    "endColumn": 54,
+                    "endOffset": 1195
+                },
+                "from": {
+                    "file": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 249,
+                        "endColumn": 54,
+                        "endOffset": 299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1200,
+                    "endColumn": 44,
+                    "endOffset": 1240
+                },
+                "from": {
+                    "file": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 144,
+                        "endColumn": 44,
+                        "endOffset": 184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1245,
+                    "endColumn": 59,
+                    "endOffset": 1300
+                },
+                "from": {
+                    "file": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 59,
+                        "endOffset": 244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1305,
+                    "endColumn": 44,
+                    "endOffset": 1345
+                },
+                "from": {
+                    "file": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 99,
+                        "endColumn": 44,
+                        "endOffset": 139
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:id="@+id/captureContainter"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <SurfaceView
+            android:id="@+id/capturePreview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <ImageView
+            android:id="@+id/topMask"
+            android:layout_width="match_parent"
+            android:layout_height="160dip"
+            android:layout_alignParentTop="true"
+            android:background="@drawable/scan_mask"
+            android:contentDescription="@string/app_name" />
+
+        <RelativeLayout
+            android:id="@+id/captureCropLayout"
+            android:layout_width="200dip"
+            android:layout_height="200dip"
+            android:layout_below="@id/topMask"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/capture"
+            android:contentDescription="@string/app_name" >
+
+            <ImageView
+                android:id="@+id/captureScanLine"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_margin="4dip"
+                android:background="@drawable/scan_line"
+                android:contentDescription="@string/app_name" />
+        </RelativeLayout>
+
+        <ImageView
+            android:id="@+id/bottomMask"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_below="@id/captureCropLayout"
+            android:background="@drawable/scan_mask"
+            android:contentDescription="@string/app_name" />
+
+        <ImageView
+            android:id="@+id/leftMask"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@id/bottomMask"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@id/topMask"
+            android:layout_toLeftOf="@id/captureCropLayout"
+            android:background="@drawable/scan_mask"
+            android:contentDescription="@string/app_name" />
+
+        <ImageView
+            android:id="@+id/rightMask"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@id/bottomMask"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/topMask"
+            android:layout_toRightOf="@id/captureCropLayout"
+            android:background="@drawable/scan_mask"
+            android:contentDescription="@string/app_name" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/captureCropLayout"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dip"
+            android:text="@string/scan_prompt_label"
+            android:textColor="@android:color/white"
+            android:textSize="22sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dip"
+        android:background="@color/title_color" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/scan_title"
+            android:textColor="@android:color/white"
+            android:textSize="22sp" />
+
+        <Button
+            android:id="@+id/btnBack"
+            android:layout_width="25dip"
+            android:layout_height="25dip"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="16dip"
+            android:background="@drawable/ic_back" />
+    </RelativeLayout>
+
+</FrameLayout>

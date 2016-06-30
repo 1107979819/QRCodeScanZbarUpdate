@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">二维码扫描</string>
+    <string name="scan_title">二维码扫描</string>
+    <string name="scan_label">扫描二维码</string>
+    <string name="scan_prompt_label">将二维码/条形码放入方框内</string>
+    <string name="scan_failed_prompt">二维码扫描失败</string>
+
+</resources>

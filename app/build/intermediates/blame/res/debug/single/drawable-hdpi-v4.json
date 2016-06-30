@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test2.png",
+        "source": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\src\\main\\res\\drawable-hdpi\\test2.png"
+    },
+    {
+        "merged": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\capture.9.png",
+        "source": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\src\\main\\res\\drawable-hdpi\\capture.9.png"
+    },
+    {
+        "merged": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\scan_mask.png",
+        "source": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\src\\main\\res\\drawable-hdpi\\scan_mask.png"
+    },
+    {
+        "merged": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\scan_line.png",
+        "source": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\src\\main\\res\\drawable-hdpi\\scan_line.png"
+    },
+    {
+        "merged": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test.png",
+        "source": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\src\\main\\res\\drawable-hdpi\\test.png"
+    },
+    {
+        "merged": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_back.png",
+        "source": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\src\\main\\res\\drawable-hdpi\\ic_back.png"
+    },
+    {
+        "merged": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qr.png",
+        "source": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\src\\main\\res\\drawable-hdpi\\qr.png"
+    }
+]

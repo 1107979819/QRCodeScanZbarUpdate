@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_qrcode_scan.xml",
+        "source": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\src\\main\\res\\layout\\layout_qrcode_scan.xml"
+    },
+    {
+        "merged": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_qrcode_scan_image.xml",
+        "source": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\src\\main\\res\\layout\\layout_qrcode_scan_image.xml"
+    },
+    {
+        "merged": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_qrcode_main.xml",
+        "source": "F:\\Demo\\QRCodeScanZbarUpdate\\app\\src\\main\\res\\layout\\layout_qrcode_main.xml"
+    }
+]

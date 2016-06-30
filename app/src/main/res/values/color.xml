@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 扫描结束时扫描框周围的颜色 -->
+    <color name="result_view">#b0000000</color>
+    <!-- 扫描时扫描框周围的颜色 -->
+    <color name="viewfinder_mask">#60000000</color>
+    <!-- 扫描时小黄点的颜色 -->
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="title_color">#6BC600</color>
+
+</resources>
